@@ -1,0 +1,27 @@
+.persona__imagen {
+    background: red;
+    height: 300px;
+    width: 300px;
+}
+
+.persona__imagen--roberta {
+    background: url("../../img/1658932392884.jfif");
+}
+
+.persona__imagen--marcela {
+    background: url("../../img/84e832cc-b853-40d1-bcf9-bd0d2aae2bec.sized-1000x1000.jfif");
+}
+
+
+.persona__imagen--andrea {
+    background: url("../../img/descarga.jfif");
+}
+
+.persona__imagen {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 100%;
+    height: 200px;
+    width: 200px;
+}
